@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/MxShop-master 2.iml" filepath="$PROJECT_DIR$/.idea/MxShop-master 2.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/MxShop.iml" filepath="$PROJECT_DIR$/.idea/MxShop.iml" />
+>>>>>>> 9c421ef87b2f5c24d382fec5feba65272aea1ee2
     </modules>
   </component>
 </project>
